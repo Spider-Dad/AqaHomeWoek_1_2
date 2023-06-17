@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/22qt20f7rgbcri04?svg=true)](https://ci.appveyor.com/project/Spider-Dad/aqahomewoek-1-2)
